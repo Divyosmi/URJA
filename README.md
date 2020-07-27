@@ -17,7 +17,7 @@ urja has everything from basic arithmetic to inbuilt fib fact and more will be u
 
 **Bold** and _Italic_ and `Code` text
 
-[www.kaggle.com/divyosmi2009](url) and ![image](src)
+[www.kaggle.com/divyosmi2009](url) and ![Screenshot_2020-07-27-10-30-55-696.jpeg](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -29,3 +29,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+and any one can contact me at email
