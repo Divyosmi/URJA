@@ -11,8 +11,8 @@ urja has everything from basic arithmetic to inbuilt fib fact and more will be u
 
 
 
-
-[Kaggle Account](www.kaggle.com/divyosmi2009) and ![image](images/Screenshot_2020-07-27-10-30-55-696.jpeg)
+         <br>
+ ![image](images/Screenshot_2020-07-27-10-30-55-696.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
