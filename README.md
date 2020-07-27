@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to URJA
 
 You can use the [editor on GitHub](https://github.com/Divyosmi/URJA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,14 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+urja has everything from basic arithmetic to inbuilt fib fact and more will be updated soon may be 2021
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -23,7 +17,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[www.kaggle.com/divyosmi2009](url) and ![image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
