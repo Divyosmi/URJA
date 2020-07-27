@@ -9,15 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 urja has everything from basic arithmetic to inbuilt fib fact and more will be updated soon may be 2021
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[www.kaggle.com/divyosmi2009](url) and ![Screenshot_2020-07-27-10-30-55-696.jpeg](src)
+[www.kaggle.com/divyosmi2009](url) and ![Divyosmi/URJA/Screenshot_2020-07-27-10-30-55-696.jpeg](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
