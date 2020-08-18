@@ -1,6 +1,6 @@
 ## Welcome to URJA
 
-You can use the [editor on GitHub](https://github.com/Divyosmi/URJA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [![Run on Repl.it](https://repl.it/badge/github/Divyosmi/URJA)](https://repl.it/github/Divyosmi/URJA) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
